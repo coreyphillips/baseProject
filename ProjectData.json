@@ -1,0 +1,54 @@
+{
+  "Constants": {
+    "codePushKeys": {
+      "iosProduction": "",
+      "iosStaging": "",
+      "androidProduction": "",
+      "androidStaging": ""
+    },
+    "apiHost": "",
+    "authToken": "",
+    "stripeKey": "",
+    "actions": {
+      "RESET": "RESET",
+      "UPDATE_SETTINGS": "UPDATE_SETTINGS",
+      "RESET_SETTINGS": "RESET_SETTINGS",
+      "UPDATE_USER": "UPDATE_USER",
+      "RESET_USER": "RESET_USER"
+    },
+    "colors": {
+      "black": "#000",
+      "white": "#FFF",
+      "tan": "#FAE3A4",
+      "darkGray": "#58585A",
+      "lightBlack": "#333333",
+      "gray": "#6a6968",
+      "warmGray": "#979797",
+      "lightGray": "#f9f9f9",
+      "darkWhite": "#f9f9f9",
+      "green": "#4cd964",
+      "lightYellow": "#fffbd6",
+      "fireEngineRed": "#ff0004",
+      "cherryRed": "#ff001f",
+      "evilGreen": "#29bb9c",
+      "evilBlue": "#2980b9",
+      "evilYellow": "#f39c12",
+      "evilPurple": "#8e44ad",
+      "evilRed": "#ff6666",
+      "deepPurple": "#4d3f8c"
+    },
+    "fontSizes": {
+      "small": 12,
+      "normal": 16,
+      "large": 18,
+      "navigationTitle": 20,
+      "title": 30
+    },
+    "fontFamilies": {
+      "normal": "Times New Roman"
+    },
+    "errors": {
+      "connection": "Unable to connect. Please Try Again."
+    }
+  }
+}
